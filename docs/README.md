@@ -7,7 +7,7 @@ Author's note: This report, as well as the accompanying code, was written indivi
 
 ### Project Report
 Below is a link to the markdown file containing my final project report paper. A PDF version is also provided below.<br>
-[Project Report](https://github.com/joshuakobuskie/CS301_Individual/blob/3b642acb4daa51b75e9bfb6b0b3d5efaeda656d9/docs/Project_Report.md)<br>
+[Project Report](docs/Project_Report.md)<br>
 [Project Report as PDF](https://github.com/joshuakobuskie/CS301_Individual/blob/eaaa57acfe7637e28a60ca9761fc7102647e003a/docs/Project_Report.pdf)<br>
 
 ### Code
