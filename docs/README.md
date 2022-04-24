@@ -14,3 +14,5 @@ All three of the below links are different representations of the same code. The
 ### Related Work
 [THE USE OF MACHINE LEARNING ALGORITHMS IN RECOMMENDER SYSTEMS: A SYSTEMATIC REVIEW](https://github.com/joshuakobuskie/CS301_Individual/blob/b53f78746497763da6eacb4790f323fe66701910/docs/IJRAR19K2241.pdf)
 
+### Replicating Results
+To replicate my results or experiment with the code, simply download the source code document listed here:<br>[Sourcecode only as Jupyter Notebook](https://github.com/joshuakobuskie/CS301_Individual/blob/b53f78746497763da6eacb4790f323fe66701910/docs/source_code_only.ipynb)<br>It is strongly recommended that the code be opened and run in a Kaggle environment, but other environments that support python, including Google Colab, may work. No gurantees are issued about these alternative platforms, as the code has been designed and tested primarily in the Kaggle environment.  
