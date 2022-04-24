@@ -19,8 +19,8 @@ All three of the below links are different representations of the same code. The
 
 ### Final Presentation
 Below is a link to both my short presentation on my project and the slides used during the presentation.<br>
-[Final Presentation]()
-[Slides]()
+[Final Presentation](https://github.com/joshuakobuskie/CS301_Individual/blob/918050cced3d1414eb63e68d508caa5a990bb831/docs/Project_Presentation.mp4)<br>
+[Slides](https://github.com/joshuakobuskie/CS301_Individual/blob/918050cced3d1414eb63e68d508caa5a990bb831/docs/KNN%20Classification%20for%20H&M%20Product%20Recommendation.pdf)<br>
 
 ### Related Work
 [THE USE OF MACHINE LEARNING ALGORITHMS IN RECOMMENDER SYSTEMS: A SYSTEMATIC REVIEW](https://github.com/joshuakobuskie/CS301_Individual/blob/b53f78746497763da6eacb4790f323fe66701910/docs/IJRAR19K2241.pdf)<br>
