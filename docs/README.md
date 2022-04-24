@@ -3,6 +3,7 @@
 Author's note: This report, as well as the accompanying code, was written individually.
 
 ### Kaggle Challenge
+Below is a link to the Kaggle Challenge attempted with this project.<br> 
 [“H&M Personalized Fashion Recommendations”](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations)
 
 ### Project Report
@@ -15,6 +16,11 @@ All three of the below links are different representations of the same code. The
 [Code with output as PDF](https://github.com/joshuakobuskie/CS301_Individual/blob/b53f78746497763da6eacb4790f323fe66701910/docs/code_with_output.webarchive.pdf)<br>
 [Code with output as Interactive Web Archive](https://github.com/joshuakobuskie/CS301_Individual/blob/b53f78746497763da6eacb4790f323fe66701910/docs/code_with_output.webarchive)<br>
 [Sourcecode only as Jupyter Notebook](https://github.com/joshuakobuskie/CS301_Individual/blob/b53f78746497763da6eacb4790f323fe66701910/docs/source_code_only.ipynb)<br>
+
+### Final Presentation
+Below is a link to both my short presentation on my project and the slides used during the presentation.<br>
+[Final Presentation]()
+[Slides]()
 
 ### Related Work
 [THE USE OF MACHINE LEARNING ALGORITHMS IN RECOMMENDER SYSTEMS: A SYSTEMATIC REVIEW](https://github.com/joshuakobuskie/CS301_Individual/blob/b53f78746497763da6eacb4790f323fe66701910/docs/IJRAR19K2241.pdf)<br>
